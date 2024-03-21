@@ -13,7 +13,7 @@
     <link rel="stylesheet" href="chrome://browser/content/contentSearchUI.css" />
     <link rel="stylesheet" href="chrome://activity-stream/content/css/activity-stream.css" />
   </head>
-  <!-- Cached: Sun, 17 Mar 2024 09:10:06 GMT -->
+  <!-- Cached: Wed, 20 Mar 2024 10:16:16 GMT -->
   <body class="activity-stream">
     <div id="header-asrouter-container" role="presentation"></div>
     <div id="root">
@@ -37,18 +37,18 @@ window.__STARTUP_STATE__ = {
 				"isDefault": false,
 				"url": "https://www.coinimp.com/dashboard",
 				"baseDomain": "coinimp.com",
+				"screenshot": "moz-page-thumb://thumbnails/?url=https%3A%2F%2Fwww.coinimp.com%2Fdashboard&revision=2741",
 				"hostname": "coinimp",
 				"searchTopSite": false,
 				"isPinned": true,
 				"pinIndex": 0,
-				"typedBonus": true,
-				"screenshot": "moz-page-thumb://thumbnails/?url=https%3A%2F%2Fwww.coinimp.com%2Fdashboard&revision=2335"
+				"typedBonus": true
 			},
 			{
 				"bookmarkGuid": null,
-				"frecency": 44778,
+				"frecency": 48195,
 				"guid": "ri4lwV_8nUdb",
-				"lastVisitDate": 1710664494437,
+				"lastVisitDate": 1710810866644,
 				"title": "codesandbox - docker chromium - Google Sheets",
 				"url": "https://docs.google.com/spreadsheets/d/1qDmI8ZvKsBinxVM-rpyBXpH1lJEurf-cwNhIZrWd1eU/edit#gid=0",
 				"type": "history",
@@ -62,17 +62,17 @@ window.__STARTUP_STATE__ = {
 				"smallFaviconSize": 16,
 				"hostname": "docs.google",
 				"label": "docs.google",
+				"screenshot": "moz-page-thumb://thumbnails/?url=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1qDmI8ZvKsBinxVM-rpyBXpH1lJEurf-cwNhIZrWd1eU%2Fedit%23gid%3D0&revision=3006",
 				"searchTopSite": false,
 				"isPinned": true,
 				"pinIndex": 1,
-				"typedBonus": true,
-				"screenshot": "moz-page-thumb://thumbnails/?url=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1qDmI8ZvKsBinxVM-rpyBXpH1lJEurf-cwNhIZrWd1eU%2Fedit%23gid%3D0&revision=2899"
+				"typedBonus": true
 			},
 			{
 				"bookmarkGuid": "NKI3xkitTsiL",
-				"frecency": 95038,
+				"frecency": 71126,
 				"guid": "Frev3QfeR3FR",
-				"lastVisitDate": 1710101335658,
+				"lastVisitDate": 1710756931129,
 				"title": "Vite App",
 				"url": "https://stalwart-figolla-bac699.netlify.app/#iframe0",
 				"type": "history",
@@ -84,13 +84,13 @@ window.__STARTUP_STATE__ = {
 				"smallFaviconLength": 1450,
 				"smallFaviconRef": "",
 				"smallFaviconSize": 32,
+				"screenshot": "moz-page-thumb://thumbnails/?url=https%3A%2F%2Fstalwart-figolla-bac699.netlify.app%2F%23iframe0&revision=847",
 				"hostname": "stalwart-figolla-bac699",
-				"typedBonus": true,
-				"screenshot": "moz-page-thumb://thumbnails/?url=https%3A%2F%2Fstalwart-figolla-bac699.netlify.app%2F%23iframe0&revision=904"
+				"typedBonus": true
 			},
 			{
 				"bookmarkGuid": null,
-				"frecency": 19188,
+				"frecency": 18708,
 				"guid": "j84ZOIV1hHTu",
 				"lastVisitDate": 1710082874531,
 				"title": "Vite App",
@@ -104,13 +104,13 @@ window.__STARTUP_STATE__ = {
 				"smallFaviconLength": 1450,
 				"smallFaviconRef": "",
 				"smallFaviconSize": 32,
+				"screenshot": "moz-page-thumb://thumbnails/?url=https%3A%2F%2Fvisionary-taiyaki-327f98.netlify.app%2F%23iframe0&revision=3918",
 				"hostname": "visionary-taiyaki-327f98",
-				"typedBonus": true,
-				"screenshot": "moz-page-thumb://thumbnails/?url=https%3A%2F%2Fvisionary-taiyaki-327f98.netlify.app%2F%23iframe0&revision=1844"
+				"typedBonus": true
 			},
 			{
 				"bookmarkGuid": null,
-				"frecency": 8250,
+				"frecency": 8044,
 				"guid": "Ad-1O6sNDKFK",
 				"lastVisitDate": 1710664498497,
 				"title": "ChatGPT",
@@ -129,7 +129,7 @@ window.__STARTUP_STATE__ = {
 			},
 			{
 				"bookmarkGuid": "MWAS60aS6hFt",
-				"frecency": 7703,
+				"frecency": 7510,
 				"guid": "ht9QgiTZzmtK",
 				"lastVisitDate": 1710651577539,
 				"title": "Kotak Masuk (22) - lindawijaya301109@gmail.com - Gmail",
@@ -143,13 +143,13 @@ window.__STARTUP_STATE__ = {
 				"smallFaviconLength": 664,
 				"smallFaviconRef": "",
 				"smallFaviconSize": 16,
+				"screenshot": "moz-page-thumb://thumbnails/?url=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox&revision=6679",
 				"hostname": "mail.google",
-				"typedBonus": true,
-				"screenshot": "moz-page-thumb://thumbnails/?url=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox&revision=4413"
+				"typedBonus": true
 			},
 			{
 				"bookmarkGuid": null,
-				"frecency": 6700,
+				"frecency": 6533,
 				"guid": "TkifiJkjxdZ9",
 				"lastVisitDate": 1710661721879,
 				"title": "Vite App",
@@ -163,15 +163,15 @@ window.__STARTUP_STATE__ = {
 				"smallFaviconLength": 1450,
 				"smallFaviconRef": "",
 				"smallFaviconSize": 32,
+				"screenshot": "moz-page-thumb://thumbnails/?url=https%3A%2F%2Flighthearted-cucurucho-dfe839.netlify.app%2F%23iframe0&revision=6815",
 				"hostname": "lighthearted-cucurucho-dfe839",
-				"typedBonus": true,
-				"screenshot": "moz-page-thumb://thumbnails/?url=https%3A%2F%2Flighthearted-cucurucho-dfe839.netlify.app%2F%23iframe0&revision=1189"
+				"typedBonus": true
 			},
 			{
 				"bookmarkGuid": null,
-				"frecency": 2847,
+				"frecency": 4186,
 				"guid": "HmxHEXukYFyT",
-				"lastVisitDate": 1710651670661,
+				"lastVisitDate": 1710871742730,
 				"title": "Recent - CodeSandbox",
 				"url": "https://codesandbox.io/dashboard/recent",
 				"type": "history",
@@ -237,6 +237,7 @@ window.__STARTUP_STATE__ = {
 				"isDefault": false,
 				"url": "https://www.coinimp.com/dashboard",
 				"baseDomain": "coinimp.com",
+				"screenshot": "moz-page-thumb://thumbnails/?url=https%3A%2F%2Fwww.coinimp.com%2Fdashboard&revision=2741",
 				"hostname": "coinimp",
 				"searchTopSite": false,
 				"isPinned": true,
@@ -245,9 +246,9 @@ window.__STARTUP_STATE__ = {
 			},
 			{
 				"bookmarkGuid": null,
-				"frecency": 44778,
+				"frecency": 48195,
 				"guid": "ri4lwV_8nUdb",
-				"lastVisitDate": 1710664494437,
+				"lastVisitDate": 1710810866644,
 				"title": "codesandbox - docker chromium - Google Sheets",
 				"url": "https://docs.google.com/spreadsheets/d/1qDmI8ZvKsBinxVM-rpyBXpH1lJEurf-cwNhIZrWd1eU/edit#gid=0",
 				"type": "history",
@@ -261,6 +262,7 @@ window.__STARTUP_STATE__ = {
 				"smallFaviconSize": 16,
 				"hostname": "docs.google",
 				"label": "docs.google",
+				"screenshot": "moz-page-thumb://thumbnails/?url=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1qDmI8ZvKsBinxVM-rpyBXpH1lJEurf-cwNhIZrWd1eU%2Fedit%23gid%3D0&revision=3006",
 				"searchTopSite": false,
 				"isPinned": true,
 				"pinIndex": 1,
@@ -268,9 +270,9 @@ window.__STARTUP_STATE__ = {
 			},
 			{
 				"bookmarkGuid": "NKI3xkitTsiL",
-				"frecency": 95038,
+				"frecency": 71126,
 				"guid": "Frev3QfeR3FR",
-				"lastVisitDate": 1710101335658,
+				"lastVisitDate": 1710756931129,
 				"title": "Vite App",
 				"url": "https://stalwart-figolla-bac699.netlify.app/#iframe0",
 				"type": "history",
@@ -282,12 +284,13 @@ window.__STARTUP_STATE__ = {
 				"smallFaviconLength": 1450,
 				"smallFaviconRef": "",
 				"smallFaviconSize": 32,
+				"screenshot": "moz-page-thumb://thumbnails/?url=https%3A%2F%2Fstalwart-figolla-bac699.netlify.app%2F%23iframe0&revision=847",
 				"hostname": "stalwart-figolla-bac699",
 				"typedBonus": true
 			},
 			{
 				"bookmarkGuid": null,
-				"frecency": 19188,
+				"frecency": 18708,
 				"guid": "j84ZOIV1hHTu",
 				"lastVisitDate": 1710082874531,
 				"title": "Vite App",
@@ -301,12 +304,13 @@ window.__STARTUP_STATE__ = {
 				"smallFaviconLength": 1450,
 				"smallFaviconRef": "",
 				"smallFaviconSize": 32,
+				"screenshot": "moz-page-thumb://thumbnails/?url=https%3A%2F%2Fvisionary-taiyaki-327f98.netlify.app%2F%23iframe0&revision=3918",
 				"hostname": "visionary-taiyaki-327f98",
 				"typedBonus": true
 			},
 			{
 				"bookmarkGuid": null,
-				"frecency": 8250,
+				"frecency": 8044,
 				"guid": "Ad-1O6sNDKFK",
 				"lastVisitDate": 1710664498497,
 				"title": "ChatGPT",
@@ -325,7 +329,7 @@ window.__STARTUP_STATE__ = {
 			},
 			{
 				"bookmarkGuid": "MWAS60aS6hFt",
-				"frecency": 7703,
+				"frecency": 7510,
 				"guid": "ht9QgiTZzmtK",
 				"lastVisitDate": 1710651577539,
 				"title": "Kotak Masuk (22) - lindawijaya301109@gmail.com - Gmail",
@@ -339,12 +343,13 @@ window.__STARTUP_STATE__ = {
 				"smallFaviconLength": 664,
 				"smallFaviconRef": "",
 				"smallFaviconSize": 16,
+				"screenshot": "moz-page-thumb://thumbnails/?url=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox&revision=6679",
 				"hostname": "mail.google",
 				"typedBonus": true
 			},
 			{
 				"bookmarkGuid": null,
-				"frecency": 6700,
+				"frecency": 6533,
 				"guid": "TkifiJkjxdZ9",
 				"lastVisitDate": 1710661721879,
 				"title": "Vite App",
@@ -358,14 +363,15 @@ window.__STARTUP_STATE__ = {
 				"smallFaviconLength": 1450,
 				"smallFaviconRef": "",
 				"smallFaviconSize": 32,
+				"screenshot": "moz-page-thumb://thumbnails/?url=https%3A%2F%2Flighthearted-cucurucho-dfe839.netlify.app%2F%23iframe0&revision=6815",
 				"hostname": "lighthearted-cucurucho-dfe839",
 				"typedBonus": true
 			},
 			{
 				"bookmarkGuid": null,
-				"frecency": 2847,
+				"frecency": 4186,
 				"guid": "HmxHEXukYFyT",
-				"lastVisitDate": 1710651670661,
+				"lastVisitDate": 1710871742730,
 				"title": "Recent - CodeSandbox",
 				"url": "https://codesandbox.io/dashboard/recent",
 				"type": "history",
@@ -855,7 +861,7 @@ window.__STARTUP_STATE__ = {
 		},
 		"spocs": {
 			"spocs_endpoint": "https://spocs.getpocket.com/spocs",
-			"lastUpdated": 1710665603387,
+			"lastUpdated": 1710929770095,
 			"data": {
 				"settings": {
 					"feature_flags": {
@@ -974,4 +980,4 @@ window.__STARTUP_STATE__ = {
 	}
 };
 
-uÕÂ:„           eö³nF­wÿÿÿÿ       :about:home alt-data 1;39034,script version 20240309172802  Í
+‡ÒÌªŒ€           eú·pF¯Ìÿÿÿÿ       :about:home alt-data 1;39034,script version 20240309172802   û
